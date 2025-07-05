@@ -23,6 +23,10 @@ This is an ideal beginner-friendly project that demonstrates real-time **API dat
 > Example:  
 > ![Screenshot](pic1.png)
 
+## Demo 
+
+https://movie-finder-app.streamlit.app/
+
 ---
 
 ## 🚀 Getting Started
